@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#inference img
+return_ori_bbox/cut_Test_img(01)
+return_ori_bbox/cut_Test_img(03)
+return_ori_bbox/cut_Test_img(04)
+return_ori_bbox/cut_Test_img_infloc(01)
+return_ori_bbox/cut_Test_img_infloc(03)
+return_ori_bbox/cut_Test_img_infloc(04)
